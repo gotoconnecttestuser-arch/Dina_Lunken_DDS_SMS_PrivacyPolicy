@@ -50,6 +50,9 @@ We use your information to:
 We do not share your personal information, phone number, or SMS consent opt-in data with third parties or affiliates for marketing or promotional purposes.
 Protection of Information
 
+You can opt out of receiving SMS messages at any time by replying STOP to any message we send you. You can review our Terms
+https://github.com/gotoconnecttestuser-arch/Dina_Lunken_DDS_SMS_TermsandConditions/blob/main/README.md You can opt out of receiving SMS messages at any time by replying STOP to any message we send you.
+
 We take steps to protect your information against unauthorized use or disclosure.
 
 Updates
