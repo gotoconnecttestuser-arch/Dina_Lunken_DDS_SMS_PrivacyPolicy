@@ -1,8 +1,10 @@
-Dina Lunken DDS Privacy Policy
+Dina Lunken DDS PC Privacy Policy
 
 Effective Date: Effective Date:01/14/2026
 
 We are committed to protecting your privacy. Your personal and mobile information will not be shared with third parties for marketing purposes under any circumstances. Your data will not be transferred to external organizations. We may use trusted service providers solely for the operation and improvement of our services, and these providers are not permitted to use your data for any other purpose.
+
+By providing your phone number, you consent to receive customer care messages and other conversational messages from Dina Lunken DDS PC.
 
 If you have any questions or concerns regarding your personal information or this privacy policy, please contact us at: 
 
@@ -62,7 +64,7 @@ We may update this Privacy Policy periodically. The most current version will al
     
 If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:
 
-Dina Lunken DDS
+Dina Lunken DDS PC
 
 803 21st Street, Ste B
 Peru, IL 61354
