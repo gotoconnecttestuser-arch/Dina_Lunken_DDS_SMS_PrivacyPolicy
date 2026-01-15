@@ -2,7 +2,7 @@ Dina Lunken DDS PC Privacy Policy
 
 Effective Date: Effective Date:01/14/2026
 
-We are committed to protecting your privacy. Your personal and mobile information will not be shared with third parties for marketing purposes under any circumstances. Your data will not be transferred to external organizations. We may use trusted service providers solely for the operation and improvement of our services, and these providers are not permitted to use your data for any other purpose.
+We are committed to protecting your privacy. Your data will not be transferred to external organizations under any circumstances. All personal information collected is used solely for the purposes described in this policy and is handled with strict confidentiality.
 
 By providing your phone number, you consent to receive customer care messages and other conversational messages from Dina Lunken DDS PC.
 
