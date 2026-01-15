@@ -7,6 +7,7 @@ We are committed to protecting your privacy. Your personal and mobile informatio
 If you have any questions or concerns regarding your personal information or this privacy policy, please contact us at: 
 
 Phone: (815) 223-6622
+
 Email: dinalunkendds@gmail.com
 
 1. Information We Collect
