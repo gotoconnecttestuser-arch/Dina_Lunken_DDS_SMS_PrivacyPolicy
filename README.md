@@ -2,8 +2,9 @@ Dina Lunken DDS Privacy Policy
 
 Effective Date: Effective Date:01/14/2026
 
-Dina Lunken DDS ("we," "us," "our") is committed to protecting your privacy. 
-This Privacy Policy describes how we collect, use, and protect your information when you use our SMS notification service and other related patient communications.
+We are committed to protecting your privacy. Your personal and mobile information will not be shared with third parties for marketing purposes under any circumstances. Your data will not be transferred to external organizations. We may use trusted service providers solely for the operation and improvement of our services, and these providers are not permitted to use your data for any other purpose.
+
+If you have any questions or concerns regarding your personal information or this privacy policy, please contact us at: dinalunkendds@gmail.com or (815) 223-6622.
 
 1. Information We Collect
    
@@ -58,7 +59,9 @@ We may update this Privacy Policy periodically. The most current version will al
 If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:
 
 Dina Lunken DDS
+
 803 21st Street, Ste B
 Peru, IL 61354
+
 (815) 223-6622
 	
