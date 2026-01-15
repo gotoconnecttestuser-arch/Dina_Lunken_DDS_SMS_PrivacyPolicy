@@ -4,7 +4,10 @@ Effective Date: Effective Date:01/14/2026
 
 We are committed to protecting your privacy. Your personal and mobile information will not be shared with third parties for marketing purposes under any circumstances. Your data will not be transferred to external organizations. We may use trusted service providers solely for the operation and improvement of our services, and these providers are not permitted to use your data for any other purpose.
 
-If you have any questions or concerns regarding your personal information or this privacy policy, please contact us at: dinalunkendds@gmail.com or (815) 223-6622.
+If you have any questions or concerns regarding your personal information or this privacy policy, please contact us at: 
+
+Phone: (815) 223-6622
+Email: dinalunkendds@gmail.com
 
 1. Information We Collect
    
