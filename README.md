@@ -28,6 +28,8 @@ We may collect and maintain the following types of information:
    
 We use your information strictly for the following purposes:
 
+•   Customer care messages
+
 •	To send appointment reminders and notifications
 
 •	To inform you of balances due on your account
